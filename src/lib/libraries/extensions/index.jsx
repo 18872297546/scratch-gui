@@ -317,5 +317,13 @@ export default [
             />
         ),
         helpLink: 'https://scratch.mit.edu/vernier'
+    },
+    {
+        name: '可旺机器狗',
+        extensionId: 'kewang',
+        iconURL: microbitIconURL,
+        description: '对可旺机器狗编程，解锁更多乐趣',
+        featured: true,
+        disabled: false
     }
 ];
